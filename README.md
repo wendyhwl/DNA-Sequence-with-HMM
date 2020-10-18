@@ -13,11 +13,11 @@ Using the Posterior Decoding and Viterbi algorithms on a Hidden Markov Model (HM
 
 Python
 
-## Author
+### Author
 
 Wendy Huang
 
-## Ackowledgement
+### Ackowledgement
 
 Assignment created by CMPT310 instructor Maxwell Libbrecht.
 
