@@ -3,21 +3,17 @@
 Simon Fraser University CMPT310 - Artificial Intelligence Survey
 Fall 2019
 
-### Assignment Description
+## Assignment Description
 
 Using the Posterior Decoding and Viterbi algorithms on a Hidden Markov Model (HMM) to detect C/G rich regions in a DNA sequence.
 
 [Click here](https://github.com/wendyhwl/DNA-Sequence-with-HMM/blob/main/Assignment%203%20Guidelines.pdf) to view detailed assignment guideline.
 
-### Language
+## Language
 
 Python
 
-### Author
-
-Wendy Huang
-
-### Ackowledgement
+## Acknowledgement
 
 Assignment created by CMPT310 instructor Maxwell Libbrecht.
 
